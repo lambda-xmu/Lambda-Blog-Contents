@@ -10,4 +10,4 @@ Including Data Competition notes, top solution analysis etc.
   - Cross Validation
 
 ## Utility
-- [Numba Tutorial: Speed Up Python Code]()
+- [Numba Tutorial: Speed Up Python Code](http://lambda-xmu.club/2018/08/20/Speed-Up-Python-Code/)
