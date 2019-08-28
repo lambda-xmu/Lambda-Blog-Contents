@@ -11,7 +11,8 @@ Including Data Competition notes, top solution analysis etc.
  - [Data competition From 0 to 1 Part II: Feature Engineering](https://lambda-xmu.club/2018/08/22/Data-competition-From-0-to-1-Part-II/)
 
 ## EDA&Baseline
-[2019 CCF Work Piece EDA](SYI%2BsuC9hp5PBtvTjh1wO8F9zMZB8vs0ZyGBwmNipuupU4bOBaGJU0Orfq7szAFg6wQhdz44bgQHz88mF048xBN%2FU%2FeW4rm1p1WXv47zSE3S9J8uPNfOe0eja%2BvwdgPdoeaVNnf9qmTCHHDUvdfbtxvjZgM0v6BeXmvpDVzbvaA3bA%2Flm8HyD8JQ%3D%3D)
+- [2019 CCF Work Piece EDA](http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/)
+- [2019 CCF Car Sale EDA](http://lambda-xmu.club/2018/08/27/2019CCF-Car-Sales-EDA/)
 
 
 ## Utility
