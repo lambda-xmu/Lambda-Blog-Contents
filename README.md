@@ -8,10 +8,12 @@ Including Data Competition notes, top solution analysis etc.
   - Metrics
   - Resampling
   - Cross Validation
- - [Data competition From 0 to 1 Part II: Feature Engineering](https://lambda-xmu.club/2018/08/22/Data-competition-From-0-to-1-Part-II/)
+- [Data competition From 0 to 1 Part II: Feature Engineering](https://lambda-xmu.club/2018/08/22/Data-competition-From-0-to-1-Part-II/)
+- [Data competition From 0 to 1 Part II: Feature Engineering(补充)](http://lambda-xmu.club/2018/08/31/Data-competition-From-0-to-1-Part-II(%E8%A1%A5%E5%85%85)/)
 
 ## EDA&Baseline
-- [2019 CCF Work Piece EDA](http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/)
+- [2019 CCF Work Piece EDA Part1](http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/)
+- [2019 CCF Work Piece EDA Part2](http://lambda-xmu.club/2018/09/04/2019CCF-Work-Piece-EDA-Part2/)
 - [2019 CCF Car Sale EDA](http://lambda-xmu.club/2018/08/27/2019CCF-Car-Sales-EDA/)
 
 
