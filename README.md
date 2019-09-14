@@ -22,5 +22,5 @@ Including Data Competition notes, top solution analysis etc.
 
 
 # 做点好玩的
-[微博热搜挖掘（Part I）](http://lambda-xmu.club/2018/09/11/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-I/)
-[微博热搜挖掘（Part II）](https://lambda-xmu.club/2018/09/14/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-II/)
+- [微博热搜挖掘（Part I）](http://lambda-xmu.club/2018/09/11/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-I/)
+- [微博热搜挖掘（Part II）](https://lambda-xmu.club/2018/09/14/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-II/)
