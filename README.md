@@ -14,7 +14,7 @@ Including Data Competition notes, top solution analysis etc.
   - EDA
   - Entity Embedding
 
-## EDA&Baseline
+## EDA & Baseline
 - [2019 CCF Work Piece EDA Part1](http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/)
 - [2019 CCF Work Piece EDA Part2](http://lambda-xmu.club/2018/09/04/2019CCF-Work-Piece-EDA-Part2/)
 - [2019 CCF Car Sale EDA](http://lambda-xmu.club/2018/08/27/2019CCF-Car-Sales-EDA/)
