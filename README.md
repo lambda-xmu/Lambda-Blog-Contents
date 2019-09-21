@@ -10,6 +10,9 @@ Including Data Competition notes, top solution analysis etc.
   - Cross Validation
 - [Data competition From 0 to 1 Part II: Feature Engineering](https://lambda-xmu.club/2018/08/22/Data-competition-From-0-to-1-Part-II/)
 - [Data competition From 0 to 1 Part II: Feature Engineering(补充)](http://lambda-xmu.club/2018/08/31/Data-competition-From-0-to-1-Part-II(%E8%A1%A5%E5%85%85)/)
+- [Data competition From 0 to 1 Part III: Rossmann Store Sales](http://lambda-xmu.club/2018/09/21/Data-competition-From-0-to-1-Part-III/)
+  - EDA
+  - Entity Embedding
 
 ## EDA&Baseline
 - [2019 CCF Work Piece EDA Part1](http://lambda-xmu.club/2018/08/25/2019CCF-Work-Piece-EDA/)
