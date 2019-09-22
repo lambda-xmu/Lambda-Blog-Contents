@@ -28,3 +28,5 @@ Including Data Competition notes, top solution analysis etc.
 - [微博热搜挖掘（Part I）](http://lambda-xmu.club/2018/09/11/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-I/)
 - [微博热搜挖掘（Part II）](https://lambda-xmu.club/2018/09/14/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E6%8C%96%E6%8E%98-Part-II/)
 - [微博、头条、抖音热搜比较](http://lambda-xmu.club/2018/09/16/%E5%BE%AE%E5%8D%9A-%E5%A4%B4%E6%9D%A1-%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%AF%94%E8%BE%83/)
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
