@@ -1,5 +1,4 @@
-学习笔记
------------------------------
+
 # Data-Competition
 Including Data Competition notes, top solution analysis etc.
 
